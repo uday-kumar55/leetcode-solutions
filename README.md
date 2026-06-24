@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1025-divisor-game](https://github.com/uday-kumar55/leetcode-solutions/tree/master/1025-divisor-game) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/uday-kumar55/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Bit Manipulation
 |  |
@@ -26,4 +27,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/uday-kumar55/leetcode-solutions/tree/master/0001-two-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/uday-kumar55/leetcode-solutions/tree/master/1025-divisor-game) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/uday-kumar55/leetcode-solutions/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/uday-kumar55/leetcode-solutions/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
