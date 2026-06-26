@@ -53,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/uday-kumar55/leetcode-solutions/tree/master/0191-number-of-1-bits) |
+## String
+|  |
+| ------- |
+| [3110-score-of-a-string](https://github.com/uday-kumar55/leetcode-solutions/tree/master/3110-score-of-a-string) |
 <!---LeetCode Topics End-->
