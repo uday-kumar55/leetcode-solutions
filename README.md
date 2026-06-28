@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/uday-kumar55/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/uday-kumar55/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [3689-maximum-total-subarray-value-i](https://github.com/uday-kumar55/leetcode-solutions/tree/master/3689-maximum-total-subarray-value-i) |
+| [3925-concatenate-array-with-reverse](https://github.com/uday-kumar55/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Binary Search
 |  |
 | ------- |
@@ -64,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3689-maximum-total-subarray-value-i](https://github.com/uday-kumar55/leetcode-solutions/tree/master/3689-maximum-total-subarray-value-i) |
+## Simulation
+|  |
+| ------- |
+| [3925-concatenate-array-with-reverse](https://github.com/uday-kumar55/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 <!---LeetCode Topics End-->
