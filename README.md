@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0557-reverse-words-in-a-string-iii](https://github.com/uday-kumar55/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [3110-score-of-a-string](https://github.com/uday-kumar55/leetcode-solutions/tree/master/3110-score-of-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/uday-kumar55/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/uday-kumar55/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3925-concatenate-array-with-reverse](https://github.com/uday-kumar55/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Sorting
 |  |
