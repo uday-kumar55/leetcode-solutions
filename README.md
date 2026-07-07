@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/uday-kumar55/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/uday-kumar55/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/uday-kumar55/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1732-find-the-highest-altitude](https://github.com/uday-kumar55/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [2540-minimum-common-value](https://github.com/uday-kumar55/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [3689-maximum-total-subarray-value-i](https://github.com/uday-kumar55/leetcode-solutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/uday-kumar55/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
@@ -106,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/uday-kumar55/leetcode-solutions/tree/master/0326-power-of-three) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/uday-kumar55/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
