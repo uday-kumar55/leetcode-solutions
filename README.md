@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/uday-kumar55/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/uday-kumar55/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/uday-kumar55/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0704-binary-search](https://github.com/uday-kumar55/leetcode-solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/uday-kumar55/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/uday-kumar55/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/uday-kumar55/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/uday-kumar55/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/uday-kumar55/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/uday-kumar55/leetcode-solutions/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/uday-kumar55/leetcode-solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/uday-kumar55/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [2540-minimum-common-value](https://github.com/uday-kumar55/leetcode-solutions/tree/master/2540-minimum-common-value) |
 ## Math
