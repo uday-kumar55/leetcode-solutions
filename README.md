@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/uday-kumar55/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/uday-kumar55/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/uday-kumar55/leetcode-solutions/tree/master/0162-find-peak-element) |
+| [0217-contains-duplicate](https://github.com/uday-kumar55/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/uday-kumar55/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/uday-kumar55/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/uday-kumar55/leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/uday-kumar55/leetcode-solutions/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/uday-kumar55/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/uday-kumar55/leetcode-solutions/tree/master/0268-missing-number) |
 | [2540-minimum-common-value](https://github.com/uday-kumar55/leetcode-solutions/tree/master/2540-minimum-common-value) |
 ## Dynamic Programming
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/uday-kumar55/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/uday-kumar55/leetcode-solutions/tree/master/0268-missing-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/uday-kumar55/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
