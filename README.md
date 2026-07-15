@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/uday-kumar55/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/uday-kumar55/leetcode-solutions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/uday-kumar55/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/uday-kumar55/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/uday-kumar55/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/uday-kumar55/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/uday-kumar55/leetcode-solutions/tree/master/0260-single-number-iii) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/uday-kumar55/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/uday-kumar55/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/uday-kumar55/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/uday-kumar55/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/uday-kumar55/leetcode-solutions/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/uday-kumar55/leetcode-solutions/tree/master/0704-binary-search) |
