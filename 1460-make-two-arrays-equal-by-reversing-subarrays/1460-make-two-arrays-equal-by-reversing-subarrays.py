@@ -5,9 +5,4 @@ class Solution(object):
         :type arr: List[int]
         :rtype: bool
         """
-        target.sort()
-        arr.sort()
-        for i in range(0,len(target)):
-            if target[i]!=arr[i]:
-                return False
-        return True
+        return sorted(target) == sorted(arr)
