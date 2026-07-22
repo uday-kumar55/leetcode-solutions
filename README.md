@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/uday-kumar55/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/uday-kumar55/leetcode-solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/uday-kumar55/leetcode-solutions/tree/master/0326-power-of-three) |
 | [1025-divisor-game](https://github.com/uday-kumar55/leetcode-solutions/tree/master/1025-divisor-game) |
