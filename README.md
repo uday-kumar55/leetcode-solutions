@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/uday-kumar55/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/uday-kumar55/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/uday-kumar55/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [3110-score-of-a-string](https://github.com/uday-kumar55/leetcode-solutions/tree/master/3110-score-of-a-string) |
