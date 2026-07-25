@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/uday-kumar55/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/uday-kumar55/leetcode-solutions/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/uday-kumar55/leetcode-solutions/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/uday-kumar55/leetcode-solutions/tree/master/0326-power-of-three) |
 | [1025-divisor-game](https://github.com/uday-kumar55/leetcode-solutions/tree/master/1025-divisor-game) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/uday-kumar55/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -81,10 +82,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/uday-kumar55/leetcode-solutions/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/uday-kumar55/leetcode-solutions/tree/master/1025-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/uday-kumar55/leetcode-solutions/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/uday-kumar55/leetcode-solutions/tree/master/1025-divisor-game) |
 ## Two Pointers
 |  |
