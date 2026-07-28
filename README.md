@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/uday-kumar55/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/uday-kumar55/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/uday-kumar55/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [2390-removing-stars-from-a-string](https://github.com/uday-kumar55/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [3110-score-of-a-string](https://github.com/uday-kumar55/leetcode-solutions/tree/master/3110-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/uday-kumar55/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2390-removing-stars-from-a-string](https://github.com/uday-kumar55/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/uday-kumar55/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3925-concatenate-array-with-reverse](https://github.com/uday-kumar55/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Sorting
@@ -145,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/uday-kumar55/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/uday-kumar55/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Stack
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/uday-kumar55/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
