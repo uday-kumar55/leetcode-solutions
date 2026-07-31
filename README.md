@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/uday-kumar55/leetcode-solutions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/uday-kumar55/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/uday-kumar55/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/uday-kumar55/leetcode-solutions/tree/master/0268-missing-number) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/uday-kumar55/leetcode-solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [2540-minimum-common-value](https://github.com/uday-kumar55/leetcode-solutions/tree/master/2540-minimum-common-value) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/uday-kumar55/leetcode-solutions/tree/master/0058-length-of-last-word) |
+| [0242-valid-anagram](https://github.com/uday-kumar55/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/uday-kumar55/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/uday-kumar55/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [2390-removing-stars-from-a-string](https://github.com/uday-kumar55/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/uday-kumar55/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/uday-kumar55/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/uday-kumar55/leetcode-solutions/tree/master/0268-missing-number) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/uday-kumar55/leetcode-solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/uday-kumar55/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
