@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/uday-kumar55/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/uday-kumar55/leetcode-solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/uday-kumar55/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0877-stone-game](https://github.com/uday-kumar55/leetcode-solutions/tree/master/0877-stone-game) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/uday-kumar55/leetcode-solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/uday-kumar55/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/uday-kumar55/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/uday-kumar55/leetcode-solutions/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/uday-kumar55/leetcode-solutions/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/uday-kumar55/leetcode-solutions/tree/master/0326-power-of-three) |
+| [0877-stone-game](https://github.com/uday-kumar55/leetcode-solutions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/uday-kumar55/leetcode-solutions/tree/master/1025-divisor-game) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/uday-kumar55/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/uday-kumar55/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/uday-kumar55/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/uday-kumar55/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0877-stone-game](https://github.com/uday-kumar55/leetcode-solutions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/uday-kumar55/leetcode-solutions/tree/master/1025-divisor-game) |
 ## Brainteaser
 |  |
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/uday-kumar55/leetcode-solutions/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/uday-kumar55/leetcode-solutions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/uday-kumar55/leetcode-solutions/tree/master/1025-divisor-game) |
 ## Two Pointers
 |  |
