@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/uday-kumar55/leetcode-solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/uday-kumar55/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/uday-kumar55/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
+| [1748-sum-of-unique-elements](https://github.com/uday-kumar55/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/uday-kumar55/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/uday-kumar55/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/uday-kumar55/leetcode-solutions/tree/master/2540-minimum-common-value) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/uday-kumar55/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/uday-kumar55/leetcode-solutions/tree/master/0268-missing-number) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/uday-kumar55/leetcode-solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
+| [1748-sum-of-unique-elements](https://github.com/uday-kumar55/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [2540-minimum-common-value](https://github.com/uday-kumar55/leetcode-solutions/tree/master/2540-minimum-common-value) |
 ## Dynamic Programming
 |  |
@@ -176,4 +178,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/uday-kumar55/leetcode-solutions/tree/master/0169-majority-element) |
+| [1748-sum-of-unique-elements](https://github.com/uday-kumar55/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 <!---LeetCode Topics End-->
