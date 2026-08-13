@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/uday-kumar55/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/uday-kumar55/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/uday-kumar55/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
+| [1929-concatenation-of-array](https://github.com/uday-kumar55/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/uday-kumar55/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/uday-kumar55/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/uday-kumar55/leetcode-solutions/tree/master/2540-minimum-common-value) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/uday-kumar55/leetcode-solutions/tree/master/0258-add-digits) |
+| [1929-concatenation-of-array](https://github.com/uday-kumar55/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2390-removing-stars-from-a-string](https://github.com/uday-kumar55/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/uday-kumar55/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3925-concatenate-array-with-reverse](https://github.com/uday-kumar55/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
