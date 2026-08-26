@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/uday-kumar55/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/uday-kumar55/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/uday-kumar55/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0796-rotate-string](https://github.com/uday-kumar55/leetcode-solutions/tree/master/0796-rotate-string) |
 | [1768-merge-strings-alternately](https://github.com/uday-kumar55/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 | [2390-removing-stars-from-a-string](https://github.com/uday-kumar55/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [3110-score-of-a-string](https://github.com/uday-kumar55/leetcode-solutions/tree/master/3110-score-of-a-string) |
@@ -207,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/uday-kumar55/leetcode-solutions/tree/master/0169-majority-element) |
 | [1748-sum-of-unique-elements](https://github.com/uday-kumar55/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/uday-kumar55/leetcode-solutions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
