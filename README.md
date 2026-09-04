@@ -217,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/uday-kumar55/leetcode-solutions/tree/master/0796-rotate-string) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/uday-kumar55/leetcode-solutions/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
